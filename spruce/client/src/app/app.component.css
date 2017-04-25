@@ -1,0 +1,47 @@
+.btn {
+  position: absolute;
+  margin-top: 38px;
+  margin-left: 0px;
+
+}
+
+.container {
+
+  margin-top: 50px;
+}
+
+#header {
+
+}
+
+
+
+.navbar-header{
+  height:80px;
+
+
+}
+.container-fluid{
+  background-color : #1A4683;
+}
+.logo {
+  margin-bottom: 50px;
+  width:240px;
+  height :60px;
+  margin-left:50px;
+
+}
+
+
+.container{
+  padding-top:20px;
+
+}
+.container-fluid1
+{
+  background-color :#4177b3;
+}
+#footer {
+  border:20px solid #4177b3;
+  margin-top:350px;
+}
